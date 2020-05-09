@@ -11,9 +11,12 @@ Manhattan and Euclidean distance but they did not provide the optimal solution, 
 
 ➔ The search abstractions for this problem are stated below:
 
-◆ State Space: All possible cities mentioned in the dataset
+◆ State Space: All possible cities mentioned in the dataset.
+
 ◆ Successor Function: Any city which plays an intermediate to reach our destination or the destination itself.
+
 ◆ Cost: As defined by the input(segments, distance, time or mpg)
+
 ◆ Goal state: the destination city with the required cost function
 
 
